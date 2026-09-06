@@ -1,6 +1,6 @@
 # py-demo
 
-基于 FastAPI 的 PostgreSQL 示例项目，附带 pytest 测试
+基于 FastAPI 的 PostgreSQL 示例项目，附带 pytest 测试用例.
 
 ## 依赖
 
